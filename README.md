@@ -5,6 +5,6 @@ Reportes y código de las prácticas de la materia Internet de las Cosas 2023 de
 
 ## Práctica 1 - Instalar Arduino y probar el ESP32
 
-[Reporte de la práctica](lab1/README.md)
+[Reporte de la práctica](./practica1/README.md)
 
 
