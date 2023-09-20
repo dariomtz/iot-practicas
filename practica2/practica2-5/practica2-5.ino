@@ -10,7 +10,7 @@ WiFiServer server(80);
 String estado = "";
 void setup()
 {
-    Serial.begin(115200);
+    Serial.begin(9600);
     pinMode(LED, OUTPUT);
     digitalWrite(LED, LOW);
     // Conectando a WiFi
