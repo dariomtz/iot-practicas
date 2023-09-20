@@ -25,5 +25,13 @@ En esta práctica aprendemos:
 
 4. Prender y apagar el led interno del ESP32 desde el servidor web
 
+    [Código](./practica2-4/practica2-4.ino)
+
+    [Video](https://photos.app.goo.gl/mLMbdw3c9nRHNJ1y7)
+
 
 5. Prender y apagar un led externo desde el servidor web ESP32
+
+    [Código](./practica2-5/practica2-5.ino)
+
+    [Video](https://photos.app.goo.gl/ntYXvX3QbZNEASQR7)
