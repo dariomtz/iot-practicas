@@ -3,4 +3,9 @@
 ![Screenshot 2023-11-17 at 10 31 20 a m](https://github.com/dariomtz/iot-practicas/assets/34457517/e4824951-2747-4c69-b174-c07c51fac55a)
 ![Screenshot 2023-11-17 at 10 31 32 a m](https://github.com/dariomtz/iot-practicas/assets/34457517/71349227-c538-4366-87d5-7a39b2719f3f)
 
+# Firebase Auth
+
+![Screenshot 2023-11-17 at 10 41 26 a m](https://github.com/dariomtz/iot-practicas/assets/34457517/24a58fa1-60c5-4292-a932-01509f4fc3dc)
+
+
 # El codigo de arduino es el mismo subido a la descripcion de la practica
